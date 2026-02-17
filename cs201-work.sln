@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "preparation-to-practice-1", "preparation-to-practice-1\preparation-to-practice-1.csproj", "{D67F312A-E5E5-4B31-878E-0B93437B4163}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithm-samples", "algorithm-samples\algorithm-samples.csproj", "{D67F312A-E5E5-4B31-878E-0B93437B4163}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
