@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithm-samples", "algorithm-samples\algorithm-samples.csproj", "{D67F312A-E5E5-4B31-878E-0B93437B4163}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bfs", "bfs\bfs.csproj", "{ABCEDAA2-09FD-432D-AE79-2D4C6F1989B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D67F312A-E5E5-4B31-878E-0B93437B4163}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D67F312A-E5E5-4B31-878E-0B93437B4163}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D67F312A-E5E5-4B31-878E-0B93437B4163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABCEDAA2-09FD-432D-AE79-2D4C6F1989B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCEDAA2-09FD-432D-AE79-2D4C6F1989B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCEDAA2-09FD-432D-AE79-2D4C6F1989B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCEDAA2-09FD-432D-AE79-2D4C6F1989B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
