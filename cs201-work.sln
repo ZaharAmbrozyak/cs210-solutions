@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bfs", "bfs\bfs.csproj", "{A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dfs", "dfs\dfs.csproj", "{8E49CE37-435B-469B-A04D-5344CE1B4C0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A-star", "A-star\A-star.csproj", "{18E4E009-CA9F-4691-8600-F60CB5D819BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{8E49CE37-435B-469B-A04D-5344CE1B4C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E49CE37-435B-469B-A04D-5344CE1B4C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E49CE37-435B-469B-A04D-5344CE1B4C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E4E009-CA9F-4691-8600-F60CB5D819BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E4E009-CA9F-4691-8600-F60CB5D819BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E4E009-CA9F-4691-8600-F60CB5D819BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E4E009-CA9F-4691-8600-F60CB5D819BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
